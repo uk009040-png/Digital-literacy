@@ -34,7 +34,7 @@ Researched a cybercrime case study and created a prevention checklist.
 
 ## Links
 
-**Task 3 – Google Form Quiz:** https://forms.gle/j5T6ZBvAHrXDMVxj7
+**Task 3 – Google Form Quiz:** https://docs.google.com/forms/d/e/1FAIpQLSecu3TaYwi49OpwzE7stikT0fnrSBR5KuWE697kFwNDg1DJ0A/viewform?usp=header
 
 ## Platforms Used
 - GitHub
