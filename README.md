@@ -7,7 +7,7 @@
 
 **Reg No.:** 25BEC10051
 
-**Branch:** Electronics and communication engeering
+**Branch:** Electronics and Communication Engineering
 
 **Year:** First Year  
 
