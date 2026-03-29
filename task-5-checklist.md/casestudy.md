@@ -1,36 +1,15 @@
-# Case Study — UPI/Online Payment Fraud
+Cybercrime Case Study – UPI Payment Fraud
 
-## What is UPI Fraud?
-UPI (Unified Payments Interface) fraud is a type of 
-cybercrime where fraudsters trick people into sending 
-money or revealing sensitive payment details through 
-deceptive means.
+UPI payment fraud is one of the most common cybercrimes in India.In this type of fraud, 
+fraudsters trick people into sending money through fake payment requests or by asking for a note. 
+The scam usually begins with a phone call, SMS, or WhatsApp message, in which the fraudster pretends to be a bank official, delivery agent, or customer service representative. 
+They tell the victim that there's a problem with their bank account or that they've won a prize. 
+The fraudster then sends a payout request link and asks the victim to enter their UPI PIN or share their PO Box. 
+As soon as the victim enters the PIN, the money is transferred from the victim's account to the fraudster's.
 
-## How It Typically Happens (Step-by-Step)
+Old and elderly people often fall victim to this because they may not be fully aware of online fraud methods. 
+The consequences of UPI fraud include financial loss, stress, and sometimes personal data loss. In many cases, people don't know where to report the fraud and can't get their money back.
+Studies show that cyber criminals use social engineering and fear-inducing tactics to defraud people. 
+Therefore, it is very important to spread awareness about secure online payment practices and cyber crime reporting methods.
 
-1. The fraudster contacts the victim through phone, 
-   WhatsApp, or SMS pretending to be a bank official, 
-   customer support agent, or known contact.
-2. They create a sense of urgency — saying your account 
-   will be blocked or you have received a payment.
-3. They ask the victim to scan a QR code or enter their 
-   UPI PIN to "receive" money.
-4. The moment the victim enters their PIN, money is 
-   instantly debited from their account.
-5. The fraudster disappears and becomes unreachable.
 
-## Who is Usually Targeted?
-- College students who are new to digital payments
-- Senior citizens unfamiliar with UPI
-- People buying or selling on platforms like OLX 
-  or Facebook Marketplace
-
-## Consequences
-- Immediate financial loss with little chance of recovery
-- Mental stress and anxiety
-- Victims often feel embarrassed to report the crime
-- In severe cases, entire savings can be wiped out
-
-## Source
-This is a realistic fictional scenario based on commonly 
-reported UPI fraud patterns in India.
